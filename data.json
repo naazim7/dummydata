@@ -1,14 +1,5 @@
 [
-    {
-    "id": "8AFY8bmZfqsqMBChVaZV",
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/37_JSCOOKRKQ6.jpg",
-    "email": "iahmed077@gmail.com",
-    "pid": 2,
-    "designation": "Assistant Director,",
-    "phone": "+8801711481086",
-    "name": "Dr. Iqbal Ahmed",
-    "telephone": "+88 031-2606001-10"
-    },
+    
     {
     "id": "URHrsv6x6v6vjmniQXuI",
     "telephone": "1234",
@@ -18,6 +9,16 @@
     "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
     "phone": "+8801919611867",
     "designation": "Director"
+    },
+    {
+    "id": "8AFY8bmZfqsqMBChVaZV",
+    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/37_JSCOOKRKQ6.jpg",
+    "email": "iahmed077@gmail.com",
+    "pid": 2,
+    "designation": "Assistant Director,",
+    "phone": "+8801711481086",
+    "name": "Dr. Iqbal Ahmed",
+    "telephone": "+88 031-2606001-10"
     },
     {
     "id": "URHrsv6x6v6vjmniQXuI",
