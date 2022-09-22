@@ -23,11 +23,31 @@
     {
     "id": "URHrsv6x6v6vjmniQXuI",
     "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
+    "email": "tanvir@cu.ac.bd",
     "name": "Dr. Kazi Tanvir Ahmmed",
     "pid": 1,
     "imgUrl": "https://i0.wp.com/ictcell.cu.ac.bd/wp-content/uploads/2021/08/77_PUXXQ2UGQM.png?w=300&ssl=1",
     "phone": "+8801919611867",
+    "designation": "Assistant Director"
+    },
+    {
+    "id": "URHrsv6x6v6vjmniQXuI",
+    "telephone": "1234",
+    "email": "kamrul@cu.ac.bd",
+    "name": "H.M. Kamrul Hassan",
+    "pid": 1,
+    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/202_F4ZDRXP11W.jpg,
+    "phone": "+8801919611867",
+    "designation": "Assistant Director"
+    },
+    {
+    "id": "URHrsv6x6v6vjmniQXuI",
+    "telephone": "1234",
+    "email": "forkan.ict@cu.ac.bd",
+    "name": "Mohammad Forkan",
+    "pid": 1,
+    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/52_4SXYY8T6C0.jpg",
+    "phone": "+8801319047012",
     "designation": "Director"
     },
     {
@@ -41,16 +61,7 @@
     "designation": "Senior Computer Engineer"
     },
     
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd shimul.ict@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
+    
     {
     "id": "URHrsv6x6v6vjmniQXuI",
     "telephone": "1234",
@@ -61,16 +72,7 @@
     "phone": "+8801919611867",
     "designation": "Director"
     },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
+    
     {
     "id": "URHrsv6x6v6vjmniQXuI",
     "telephone": "1234",
