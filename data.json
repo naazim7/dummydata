@@ -1,261 +1,62 @@
-[
-    
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
-    {
-    "id": "8AFY8bmZfqsqMBChVaZV",
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/37_JSCOOKRKQ6.jpg",
-    "email": "iahmed077@gmail.com",
-    "pid": 2,
-    "designation": "Assistant Director,",
-    "phone": "+8801711481086",
-    "name": "Dr. Iqbal Ahmed",
-    "telephone": "+88 031-2606001-10"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "tanvir@cu.ac.bd",
-    "name": "Dr. Kazi Tanvir Ahmmed",
-    "pid": 1,
-    "imgUrl": "https://i0.wp.com/ictcell.cu.ac.bd/wp-content/uploads/2021/08/77_PUXXQ2UGQM.png?w=300&ssl=1",
-    "phone": "+8801919611867",
-    "designation": "Assistant Director"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "kamrul@cu.ac.bd",
-    "name": "H.M. Kamrul Hassan",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/202_F4ZDRXP11W.jpg"
-,
-    "phone": "+8801919611867",
-    "designation": "Assistant Director"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "forkan.ict@cu.ac.bd",
-    "name": "Mohammad Forkan",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/52_4SXYY8T6C0.jpg",
-    "phone": "+8801319047012",
-    "designation": "Director"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "shimul.ict@cu.ac.bd",
-    "name": "S. M. Ahsanul Karim Shimul",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/6_0BSRYIYC4N.jpg",
-    "phone": "+8801813-220893,+8801719-058268",
-    "designation": "Senior Computer Engineer"
-    },
-    
-    
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
-    
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    }
-    ,
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    }
-    ,
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    }
-    ,{
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
-     {
-    "id": "8AFY8bmZfqsqMBChVaZV",
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/37_JSCOOKRKQ6.jpg",
-    "email": "iahmed077@gmail.com",
-    "pid": 2,
-    "designation": "Assistant Director,",
-    "phone": "+8801711481086",
-    "name": "Dr. Iqbal Ahmed",
-    "telephone": "+88 031-2606001-10"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    }
-    ,
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    }
-    ,
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    }
-    ,{
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    },
-    {
-    "id": "URHrsv6x6v6vjmniQXuI",
-    "telephone": "1234",
-    "email": "mkislam@cu.ac.bd",
-    "name": "Dr. Mohammad Khairul Islam",
-    "pid": 1,
-    "imgUrl": "https://cu.ac.bd/assets/image/faculty_staff_users/27_BKHZHIQ826.jpg",
-    "phone": "+8801919611867",
-    "designation": "Director"
-    }
-    ]
+{
+
+  "departments": [
+    {"id": 1, "code": "101", "name": "Computer Science & Engineering", "category": "Faculty","icon": "0xe185"},
+    {"id": 2, "code": "102", "name": "Accounting & Information System","category":"Faculty","icon": "0xe121"},
+    {"id": 3, "code": "103", "name": "Department of Economics","category":"Faculty","icon": "0xf04dc"},
+    {"id": 4, "code": "104", "name": "Department of Finance","category":"Faculty","icon": "0xe59a"},
+
+    {"id": 5, "code": "105", "name": "Offices1","category":"Offices","icon": "0xe59a"},
+    {"id": 6, "code": "106", "name": "Male Hall","category":"Hall","icon": "0xe59a"},
+    {"id": 7, "code": "106", "name": "Female Hall","category":"Hall","icon": "0xe59a"}
+  ],
+  "units": [
+    {"id": 1,  "departmentId":1,"name": "B.Sc. in Computer Science and Engineering"},
+    {"id": 2,  "departmentId":1,"name": "MSc in Computer Science and Engineering"},
+    {"id": 3,  "departmentId":1,"name": "Professional Masters in Information and Cyber Security (PMICS)"},
+
+    {"id": 4, "departmentId":2, "name": "Bachelor of Business Administration"},
+    {"id": 5, "departmentId":2, "name": "Masters  of Business Administration"},
+
+    {"id": 6, "departmentId":3, "name": "Bachelor of Social Sciences (BSS) in Economics"},
+    {"id": 7, "departmentId":3, "name": "Master of Social Sciences (MSS) in Economics"},
+    {"id": 8, "departmentId":3, "name": "Master of Philosophy in Economics"},
+
+    {"id": 9, "departmentId":4, "name": "Bachelor of Business Administration in Finance"},
+    {"id": 10, "departmentId":4, "name": "Master of Philosophy"},
+    {"id": 11, "departmentId":4, "name": "Master of Business Administration (Evening)"},
+
+    {"id": 12, "departmentId":5, "name": "VC Office"},
+    {"id": 13, "departmentId":5, "name": "Register Office"},
+    {"id": 14, "departmentId":6, "name": "Bongobondho Hall"},
+    {"id": 15, "departmentId":6, "name": "Mohsin Hall"},
+    {"id": 16, "departmentId":6, "name": "Kazi Nazrul Islam Hall"},
+    {"id": 17, "departmentId":7, "name": "Begum Rokeya Hall"},
+    {"id": 18, "departmentId":7, "name": "Sekh Hasina Hall"}
+  ],
+
+  "contacts": [
+    {"id": 1, "name": "Kamal Hosain","profile":"https://randomuser.me/api/portraits/thumb/men/10.jpg", "phone":"01930250051","designation":"Chairman","orderBy":1,"email":"mkubd212@gmail.com","unitId": 1 },
+    {"id": 14, "name": "Jahan abd",  "profile":"https://randomuser.me/api/portraits/thumb/men/11.jpg", "phone":"01930250052","designation":"professor","orderBy":2,"email":"mkubd212@gmail.com", "unitId": 1},
+    {"id": 2, "name": "jamal Udin",  "profile":"https://randomuser.me/api/portraits/thumb/men/12.jpg", "phone":"01930250052","designation":"Associate professor","orderBy":3,"email":"mkubd212@gmail.com", "unitId": 1},
+    {"id": 3, "name": "Jony Rahman", "profile":"https://randomuser.me/api/portraits/thumb/men/13.jpg", "phone":"01930250053","designation":"Asst. professor","orderBy":4,"email":"mkubd212@gmail.com", "unitId": 3},
+    {"id": 4, "name": "Tomash D",    "profile":"https://randomuser.me/api/portraits/thumb/men/14.jpg", "phone":"01930250054","designation":"Asst. professor","orderBy":5,"email":"mkubd212@gmail.com", "unitId": 3},
+    {"id": 5, "name": "Alom siddik", "profile":"https://randomuser.me/api/portraits/thumb/men/15.jpg", "phone":"01930250055","designation":"Asst. professor","orderBy":6,"email":"mkubd212@gmail.com", "unitId": 2},
+    {"id": 6, "name": "Shishir",     "profile":"https://randomuser.me/api/portraits/thumb/men/16.jpg", "phone":"01930250056","designation":"Asst. professor","orderBy":7,"email":"mkubd212@gmail.com", "unitId": 2},
+    {"id": 7, "name": "Soyeb ali",   "profile":"https://randomuser.me/api/portraits/thumb/men/17.jpg", "phone":"01930250057","designation":"Asst. professor","orderBy":8,"email":"mkubd212@gmail.com", "unitId": 4},
+    {"id": 8, "name": "Noor Hosain", "profile":"https://randomuser.me/api/portraits/thumb/men/18.jpg", "phone":"01930250058","designation":"Asst. professor","orderBy":9,"email":"mkubd212@gmail.com", "unitId": 4},
+    {"id": 9, "name": "Sohel khan",  "profile":"https://randomuser.me/api/portraits/thumb/men/19.jpg", "phone":"01930250059","designation":"Asst. professor","orderBy":9,"email":"mkubd212@gmail.com", "unitId": 5},
+    {"id": 10, "name": "Sohel khan", "profile":"https://randomuser.me/api/portraits/thumb/men/20.jpg", "phone":"01930250050","designation":"Asst. professor","orderBy":10,"email":"mkubd212@gmail.com", "unitId": 5},
+    {"id": 11, "name": "Sohel khan", "profile":"https://randomuser.me/api/portraits/thumb/men/21.jpg", "phone":"01930250052","designation":"Asst. professor","orderBy":11,"email":"mkubd212@gmail.com", "unitId": 6},
+    {"id": 12, "name": "Sohel khan", "profile":"https://randomuser.me/api/portraits/thumb/men/22.jpg", "phone":"01930250051","designation":"Asst professor","orderBy":12,"email":"mkubd212@gmail.com", "unitId": 7},
+    {"id": 13, "name": "Sohel khan", "profile":"https://randomuser.me/api/portraits/thumb/men/23.jpg", "phone":"01930250051","designation":"Teacher","orderBy":13,"email":"", "unitId": 8},
+
+    {"id": 15, "name": "Amir Md khan", "profile":"https://randomuser.me/api/portraits/thumb/men/22.jpg", "phone":"01930250051","designation":"Asst professor","orderBy":12,"email":"mkubd212@gmail.com", "unitId": 12},
+    {"id": 16, "name": "Lokman khan", "profile":"https://randomuser.me/api/portraits/thumb/men/23.jpg", "phone":"01930250051","designation":"Teacher","orderBy":13,"email":"", "unitId": 13},
+    {"id": 17, "name": "Sohag khan", "profile":"https://randomuser.me/api/portraits/thumb/men/23.jpg", "phone":"01930250051","designation":"Teacher","orderBy":13,"email":"", "unitId": 14},
+    {"id": 18, "name": "P. K Das", "profile":"https://randomuser.me/api/portraits/thumb/men/23.jpg", "phone":"01930250051","designation":"Teacher","orderBy":13,"email":"", "unitId": 15},
+    {"id": 19, "name": "Tamim Iqbal khan", "profile":"https://randomuser.me/api/portraits/thumb/men/23.jpg", "phone":"01930250051","designation":"Teacher","orderBy":13,"email":"", "unitId": 16},
+    {"id": 20, "name": "Nusrat Imroze", "profile":"https://randomuser.me/api/portraits/women/30.jpg", "phone":"01930250051","designation":"Teacher","orderBy":13,"email":"", "unitId": 17},
+    {"id": 21, "name": "Maliha", "profile":"https://randomuser.me/api/portraits/women/29.jpg", "phone":"01930250051","designation":"Teacher","orderBy":13,"email":"", "unitId": 18}
+  ]
+}
